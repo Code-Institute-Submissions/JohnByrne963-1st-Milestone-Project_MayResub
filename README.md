@@ -1,5 +1,25 @@
-# R.B Car Valeting #
-### This website is designed to show potential customers the range of services I have to offer. It will also showcase my work. ###
+# Purpose #
+### This website was created for my First Milestone Project for The Code Institutes Full Stack Developer Course. It was built using HTML & CSS which I learned from the HTML, CSS & User Centric Frontend Modules. ###
+
+### Live link can be found here: https://johnbyrne963.github.io/1st-Milestone-Project/ ###
+
+# RB Car Valeting Responsive Website #
+
+### ![Website Mock Up](assets/Website Mock-up.png) ###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # UX #
 ### As the site owner I want potential customers to be able to click on my site, be able to view my services, gallery and be able to contact me with any enquires. ###

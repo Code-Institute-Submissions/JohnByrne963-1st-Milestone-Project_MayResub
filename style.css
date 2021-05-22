@@ -1,53 +1,64 @@
 body {
-	font-family: Lato;
+	font-family: Lato, sans-serif;
 	color: #777777;
-}
-h2 {
-	font-family: oswald;
+ }
+ h2 {
+	font-family: oswald, serif;
 	text-transform: uppercase;
-	letter-spacing: 4px;
+	letter-spacing: 3px;
 	color: #555555;
-}
-#main.image {
+	font-size: 1.1rem;
+ }
+ #main.image {
 	width: 100% 
-    }
-#about-us {
+	 }
+ #about-us {
 	text-align: center;
 	font-size: 280%;
-}
-#about-details {
+ }
+ #about-details {
 	text-align: center;
 	font-size: 150%;
-}
-.social-networks {
+ }
+ .social-networks {
 	text-align: center;
-}
-.social-networks li {
+	padding-left: 0;
+ }
+ .social-networks ul {
+	text-align: center;
+ }
+ .social-networks li {
 	display: inline;
-}
-.social-networks i {
+ }
+ .social-networks i {
 	font-size: 300%;
 	margin: 1%;
 	padding: 5%;
 	color: #777777;
-}
-.row {
+ }
+ .row {
 	width: 100%;
 	color: #555555;
-}
-.form-group {
+ }
+ .form-group {
 	color: #555555;
 	text-transform: uppercase;
-}
-#form-control {
+ }
+ #form-control {
 	border: 3px solid #555;
-}
-#formGroupExampleInput2 {
+ }
+ #formGroupExampleInput2 {
 	height: 150px;
-}
-#form-group-details {
+ }
+ #form-group-details {
 	color: #555555;
-}
-h4 {
+ }
+ h4 {
 	text-align: center;
-}
+ }
+ @media(min-width: 992px) {
+	h2 {
+	   letter-spacing: 4px;
+	   font-size: 3rem;
+	}
+ }
