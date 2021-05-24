@@ -5,7 +5,11 @@
 
 # RB Car Valeting Responsive Website #
 
-### ![Website Mock Up](assets/Website Mock-up.png) ###
+### <h3 style="text-align: center"> 
+   <a href="https://github.com/<github-name>/<repo-name>"> 
+    <img src="assets/Website-Mock-up.png" alt="Website Mock-up" />" alt="Website Mock Up" /> 
+   </a> 
+</h3>
 
 
 
