@@ -25,9 +25,28 @@
 
 
 
-# UX #
-### As the site owner I want potential customers to be able to click on my site, be able to view my services, gallery and be able to contact me with any enquires. ###
-### As a potential customer I'd like to be able to see a list of services and view previous jobs completed by the site owner. ###
+# User Experience Design 
+
+### User stories
+#### First Time Visitor Goals
+
+* As a first time user, I want to know what sevices are offered by the site owner.
+
+* As a first time user, I want to be able to navigate thought the site easily.
+
+* As a first time user, I want to view the website and content clearly on my mobile phone.
+
+* As a first time user, I want to be able to view the site owners previous work.
+
+* As a first time user I want to be able to view the site owners social media platforms.
+
+#### Returning visiter goals.
+
+* As a returning visitor I'd like to be able to contact the site owner easily.
+
+#### Frequent Visitor Goals.
+
+* As a frequent user, I want to check if the site owner is offerering any new services.
 
 # Features #
 ### Home: This section gives site users a quict glimpse of my work aswell as details about the company. ###
