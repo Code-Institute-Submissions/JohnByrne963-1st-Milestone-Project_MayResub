@@ -1,29 +1,16 @@
 # Purpose #
-### This website was created for my First Milestone Project for The Code Institutes Full Stack Developer Course. It was built using HTML & CSS which I learned from the HTML, CSS & User Centric Frontend Modules. ###
+This website was created for my First Milestone Project for The Code Institutes Full Stack Developer Course. It was built using HTML & CSS which I learned from the HTML, CSS & User Centric Frontend Modules. 
 
-### Live link can be found here: https://johnbyrne963.github.io/1st-Milestone-Project/ ###
+### Live link can be found here: https://johnbyrne963.github.io/1st-Milestone-Project/ 
+
 
 # RB Car Valeting Responsive Website #
 
 ### <h3 style="text-align: center"> 
    <a href="https://github.com/<github-name>/<repo-name>"> 
-    <img src="assets/Website-Mock-up.png" alt="Website Mock-up" />" alt="Website Mock Up" /> 
+    <img src="assets/Website-Mock-up.png" alt="Website Mock-up" /> <alt= "Website Mock Up" /> 
    </a> 
 </h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # User Experience Design 
 
@@ -49,10 +36,30 @@
 * As a frequent user, I want to check if the site owner is offerering any new services.
 
 # Features #
-### Home: This section gives site users a quict glimpse of my work aswell as details about the company. ###
-### Services: This shows the four main services I offer ###
-### Gallery: The gallery shows pictures of work I have recently completed ###
-### Contact Us: This section features a form for potential customers to fill out with any questions they may have about my services. ###
+
+All pages will contain Navigation Menu at the top of the webpage. This will direct users to a new webpage on the site easily. The Nav Menu will be collapsable on a Mobile device to make use of the smaller screen size. By clicking the site logo the user will be returned to the Home page.
+
+The footer will be the same on all web pages and  contain social media icons which will bring the user to the site owners social media pages.
+
+#### Home
+
+The Home Page includes a large photograph to grab the site users attention. Beneth the photo is a small About Us section telling the site user what the site owner does and the areas covered. 
+
+#### Services Page
+
+The Services Page show the site user the four main services and details of each service. This allows the site user to determine which service suits their requirements best.
+
+#### Gallery Page
+
+The Gallery Page features four photos allowing the site user to view the site owners work.
+
+#### Contact Us Page
+
+The Contact Us Page allows the site user to contact the site owner easily by filling out a form. It also shows the site owners phone number as an alternative method of contact.
+
+
+
+
 
 # Technologies used #
 ### HTML ###
