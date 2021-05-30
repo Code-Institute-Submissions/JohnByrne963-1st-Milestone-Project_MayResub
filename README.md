@@ -37,9 +37,11 @@ This website was created for my First Milestone Project for The Code Institutes 
 
 # Features #
 
-All pages will contain Navigation Menu at the top of the webpage. This will direct users to a new webpage on the site easily. The Nav Menu will be collapsable on a Mobile device to make use of the smaller screen size. By clicking the site logo the user will be returned to the Home page.
+All pages will contain Navigation Menu at the top of the webpage. This will direct users to a new webpage on the site easily. The Nav Menu will be collapsable on a Mobile device to make use of the smaller screen size. By clicking the site logo the user will be returned to the Home page. The purpose of this is to fulfill the user story:
+> As a first time user, I want to be able to navigate thought the site easily.
 
-The footer will be the same on all web pages and  contain social media icons which will bring the user to the site owners social media pages.
+The footer will be the same on all web pages and  contain social media icons which will bring the user to the site owners social media pages. The purpose of this is to fulfill the user story:
+> As a first time user I want to be able to view the site owners social media platforms.
 
 #### Home
 
@@ -47,15 +49,36 @@ The Home Page includes a large photograph to grab the site users attention. Bene
 
 #### Services Page
 
-The Services Page show the site user the four main services and details of each service. This allows the site user to determine which service suits their requirements best.
+The Services Page show the site user the four main services and details of each service. This allows the site user to determine which service suits their requirements best. The purpose of this is to fulfill the user story:
+> As a first time user, I want to know what sevices are offered by the site owner.
 
 #### Gallery Page
 
-The Gallery Page features four photos allowing the site user to view the site owners work.
+The Gallery Page features four photos allowing the site user to view the site owners work. The purpose of this is to fufill the user story :
+> As a first time user, I want to be able to view the site owners previous work.
+
 
 #### Contact Us Page
 
-The Contact Us Page allows the site user to contact the site owner easily by filling out a form. It also shows the site owners phone number as an alternative method of contact.
+The Contact Us Page allows the site user to contact the site owner easily by filling out a form. It also shows the site owners phone number as an alternative method of contact. The purpose of this is to fufill the user storey
+> As a returning visitor I'd like to be able to contact the site owner easily.
+
+# Design
+#### Colour Scheme
+There are two different types of grey used in the site. For the body I choose #777777 and for the font I choose #555555. I used these two grey's as I though they blended well with the colour of the car in the pictures.
+
+#### Typography
+For the main text of the website I used Lato and San-Serif fonts
+
+For the site logo I used Oswald & Serif.
+
+#### Imagery
+All images used are my own photos. Link to my hosting sight: https://freeimage.host/a/valeting.JtjkX ###
+
+#### Wireframes
+
+
+
 
 # Tecnologies 
 * HTML: This project uses HTML as the main language to complete the website.
