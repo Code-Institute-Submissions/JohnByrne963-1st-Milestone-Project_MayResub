@@ -77,7 +77,7 @@ All images used are my own photos. Link to my hosting sight: https://freeimage.h
 
 #### Wireframes
 
-
+[Link to Wireframe](assets/Wireframes)
 
 
 # Tecnologies 
@@ -111,7 +111,7 @@ I ran my code through the HTML validator 2 errors occured. The first error I fou
 I tested the form by leaving some of the required sections blank and trying to submit. It would not allow unless all sections were filled in. 
 
 ### This concluded my testing ###
-
+[Link to Testing Resulits](assets/test-results)
 # Content #
 ### I used Bootstrap templates for my: ###
 * Logo & Navbar 
